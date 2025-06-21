@@ -5,6 +5,7 @@ This repository contains the code and resources for the research paper exploring
 **Author:** Samuel Oluwafemi Adebayo
 **Contact:** adebayosamueloluwafemi1@gmail.com
 **LinkedIn:** https://www.linkedin.com/in/samuel-adebayo1/
+
 **Paper:** https://github.com/Sammylee24/BGP-Anomaly-Detection-LSTM/blob/main/Adebayo_BGP_Anomaly_Detection_Paper.pdf
 
 ---
