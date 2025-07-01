@@ -44,4 +44,4 @@ Deep learning has significant potential to make the Internet's Border Gateway Pr
 
 If you use this work, please cite the paper:
 
-Adebayo, S. O. (2025). The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages.
+Adebayo, S. O. (2025). The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages. https://arxiv.org/abs/2506.17821
